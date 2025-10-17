@@ -43,7 +43,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     cd smart-task-planner
     ```
 
-2.  **(Optional but Recommended) Create and activate a virtual environment:**
+2.  ** Create and activate a virtual environment:**
     ```powershell
     # Create the environment
     python -m venv venv
@@ -91,4 +91,5 @@ python app.py
 
 # On macOS/Linux
 DISABLE_AI=1 python app.py
+
 
