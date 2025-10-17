@@ -1,4 +1,4 @@
-# 🧠 Smart Task Planner AI
+# Smart Task Planner AI
 
 An intelligent web application that uses the Google Gemini API to break down high-level goals into detailed, actionable project plans.
 
@@ -7,7 +7,7 @@ This project features a full-stack implementation with a Flask backend that serv
 
 
 ---
-## ✨ Features
+## Features
 
 * **AI-Powered Planning**: Leverages the Gemini Pro model to generate logical and comprehensive task breakdowns from a single goal.
 * **Database Persistence**: Automatically saves every generated plan to a SQLite database (`plans.db`) for future reference.
@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```powershell
-    git clone [https://github.com/kavyavannur14/smart-task-planner.git](https://github.com/kavyavannur14/smart-task-planner.git)
+    git clone [https://github.com/kavyavannur14/Smartest_Task_Planner.git](https://github.com/kavyavannur14/smart-task-planner.git)
     cd smart-task-planner
     ```
 
@@ -91,3 +91,4 @@ python app.py
 
 # On macOS/Linux
 DISABLE_AI=1 python app.py
+
